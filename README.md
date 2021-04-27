@@ -1,16 +1,26 @@
-# github-profile-summary-cards-example
+### Hi ! I'm a server-side engineer / ml researcher / japanese illustrator.
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MokkeMeguru&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MokkeMeguru&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MokkeMeguru&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MokkeMeguru&theme=dracula)
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+contact: my twiter ([@MeguruMokke](https://twitter.com/MeguruMokke)) or this repo's issue.
 
-```To create your profile README you need to name the repo as your username```
+Have a nice day !
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!--
+**MokkeMeguru/MokkeMeguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
