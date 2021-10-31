@@ -1,9 +1,6 @@
 ### Hi ! I'm a server-side engineer / ml researcher / japanese illustrator.
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MokkeMeguru&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MokkeMeguru&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MokkeMeguru&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MokkeMeguru&theme=dracula)
+[![](https://raw.githubusercontent.com/MokkeMeguru/MokkeMeguru/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/MokkeMeguru/MokkeMeguru/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MokkeMeguru/MokkeMeguru/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 contact: my twiter ([@MeguruMokke](https://twitter.com/MeguruMokke)) or this repo's issue.
 
